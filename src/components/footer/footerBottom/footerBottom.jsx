@@ -56,7 +56,7 @@ function FooterBottom() {
                             </div>
                         </div>
                         <div className="footer-bottom-content-right">
-                            <img src={mapCart} alt="" className='map'/>
+                            <iframe src="https://yandex.ru/map-widget/v1/?ll=37.634533%2C55.785205&mode=search&ol=geo&ouri=ymapsbm1%3A%2F%2Fgeo%3Fdata%3DCgg1Njc0MTUzNxI80KDQvtGB0YHQuNGPLCDQnNC%2B0YHQutCy0LAsINC%2F0YDQvtGB0L%2FQtdC60YIg0JzQuNGA0LAsIDU30YExIgoNw4kWQhUNJF9C&z=17.08" width="522" height="392" frameborder="1" allowfullscreen="true" ></iframe>
                         </div>
                     </div>
                 </div>

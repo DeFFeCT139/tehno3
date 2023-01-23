@@ -1,8 +1,11 @@
 import logo from '../../image/svg/logo.svg'
 import ButtonW from '../UI UX/button/buttonW';
 import img from '../../image/png,jpg/statistik.png'
+import menu from '../../image/svg/Property 1=normal menu.svg'
 
 function Header() {
+    const openMenu = () => document.getElementById('topMenu').classList.add('menu-active')
+    
     return (
       <div className="header">
         <div className="header-conteiner">
@@ -17,6 +20,10 @@ function Header() {
                         <a href="/" className="header-top-link">Консультация</a>
                         <a href="/" className="header-top-link">Отзывы</a>
                         <a href="/" className="header-top-link">+7(999) 999 99-99</a>
+                        <div className="header-top-link-podl"></div>
+                        <div className="header-top-btn-menu-btn">
+                            <img onClick={openMenu} src={menu} alt="" className="header-top-menu-img" />
+                        </div>
                     </div>
                 </div>
                 <div className="header-bottom">
@@ -30,7 +37,7 @@ function Header() {
                             </div>
                         </div>
                         <div className="header-bottom-content-right">
-                            <img src={img} alt="" className="header-bottom-content-right-img" />
+                            <img  src={img} alt="" className="header-bottom-content-right-img" />
                         </div>
                     </div>
                 </div>
