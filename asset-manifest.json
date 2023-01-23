@@ -1,10 +1,15 @@
 {
   "files": {
-    "main.css": "/tehno3/static/css/main.b6f6826d.css",
-    "main.js": "/tehno3/static/js/main.d5eb136f.js",
+    "main.css": "/tehno3/static/css/main.4748b9ba.css",
+    "main.js": "/tehno3/static/js/main.47b4eb74.js",
     "static/js/787.5acb9b75.chunk.js": "/tehno3/static/js/787.5acb9b75.chunk.js",
     "static/media/shutterstock_1499306735 1 (1).png": "/tehno3/static/media/shutterstock_1499306735 1 (1).69833569ce8cc0e169c3.png",
+    "static/media/Николай .jpg": "/tehno3/static/media/Николай .73dd124de81c41ff65f2.jpg",
+    "static/media/серьезныйPeople.jpg": "/tehno3/static/media/серьезныйPeople.86168cae7b8a79b7b5ae.jpg",
     "static/media/image 5.png": "/tehno3/static/media/image 5.7745ce098150bc3ddcaf.png",
+    "static/media/синергия38.png": "/tehno3/static/media/синергия38.07b818b59d74e87daf00.png",
+    "static/media/1people.jpg": "/tehno3/static/media/1people.c1724404fdb0e005a768.jpg",
+    "static/media/синергия38 (1).png": "/tehno3/static/media/синергия38 (1).2929f3ddbd2dbc731fe9.png",
     "static/media/image-PhotoRoom 1.svg": "/tehno3/static/media/image-PhotoRoom 1.989ff388800ee150e7eea25f3e9722d7.svg",
     "static/media/image bg.png": "/tehno3/static/media/image bg.6df23c18b636a32b9c79.png",
     "static/media/statistik.png": "/tehno3/static/media/statistik.8317a23d91b8861e5a1c.png",
@@ -29,12 +34,14 @@
     "static/media/Icon mail.svg": "/tehno3/static/media/Icon mail.aa6a53b78573380d10043a194835aeaf.svg",
     "static/media/Icon phone.svg": "/tehno3/static/media/Icon phone.ec5a02787d4f6281ea8fe0ebfe0c6cbd.svg",
     "index.html": "/tehno3/index.html",
-    "main.b6f6826d.css.map": "/tehno3/static/css/main.b6f6826d.css.map",
-    "main.d5eb136f.js.map": "/tehno3/static/js/main.d5eb136f.js.map",
+    "static/media/Property 1=normal menu.svg": "/tehno3/static/media/Property 1=normal menu.fe6311c0d83cf7b23f1f06062fc275cd.svg",
+    "static/media/Property 1=ative menu.svg": "/tehno3/static/media/Property 1=ative menu.e521a7e25d14551f28bc64200709f8fb.svg",
+    "main.4748b9ba.css.map": "/tehno3/static/css/main.4748b9ba.css.map",
+    "main.47b4eb74.js.map": "/tehno3/static/js/main.47b4eb74.js.map",
     "787.5acb9b75.chunk.js.map": "/tehno3/static/js/787.5acb9b75.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b6f6826d.css",
-    "static/js/main.d5eb136f.js"
+    "static/css/main.4748b9ba.css",
+    "static/js/main.47b4eb74.js"
   ]
 }
