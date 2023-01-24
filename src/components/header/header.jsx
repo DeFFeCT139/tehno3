@@ -11,14 +11,14 @@ function Header() {
         <div className="header-conteiner">
             <div className="header-inner">
                 <div className="header-top">
-                    <div className="header-top-logo">
+                    <a href='/' className="header-top-logo">
                         <img src={logo} alt="" className="header-top-logo-img" />
-                    </div>
+                    </a>
                     <div className="header-top-links">
-                        <a href="/" className="header-top-link">Услуги</a>
-                        <a href="/" className="header-top-link">Команда</a>
-                        <a href="/" className="header-top-link">Консультация</a>
-                        <a href="/" className="header-top-link">Отзывы</a>
+                        <a href="#services" className="header-top-link">Услуги</a>
+                        <a href="#team" className="header-top-link">Команда</a>
+                        <a href="#kons" className="header-top-link">Консультация</a>
+                        <a href="#reviews" className="header-top-link">Отзывы</a>
                         <a href="/" className="header-top-link">+7(999) 999 99-99</a>
                         <div className="header-top-link-podl"></div>
                         <div className="header-top-btn-menu-btn">
@@ -37,7 +37,6 @@ function Header() {
                             </div>
                         </div>
                         <div className="header-bottom-content-right">
-                            <img  src={img} alt="" className="header-bottom-content-right-img" />
                         </div>
                     </div>
                 </div>

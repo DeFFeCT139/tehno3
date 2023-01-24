@@ -28,7 +28,7 @@ function FooterBottom() {
                                     <div className="footer-bottom-content-left-desc-item-img">
                                         <img src={map} alt="" className="footer-bottom-content-left-desc-item-image" />
                                     </div>
-                                    <div className="footer-bottom-content-left-desc-item-text">г. Москва, Хлебозаводский пр-д, 7, стр. 10</div>
+                                    <div className="footer-bottom-content-left-desc-item-text">г. Москва,  ПР-КТ МИРА, Д. 102, К. 1, ПОМЕЩ. 3/7, ОФИС 59</div>
                                 </div>
                                 <div className="footer-bottom-content-left-desc-item">
                                     <div className="footer-bottom-content-left-desc-item-img">
@@ -44,19 +44,16 @@ function FooterBottom() {
                                 </div>
                             </div>
                             <div className="footer-bottom-content-left-links">
-                                <a href="" className="footer-bottom-content-left-link">
+                                <a href="https://vk.com/tecnosoft" className="footer-bottom-content-left-link">
                                     <img src={vk} alt="" className="footer-bottom-content-left-link-image" />
                                 </a>
-                                <a href="" className="footer-bottom-content-left-link">
+                                <a href="https://t.me/+rMczAlcjpahhZGM6" className="footer-bottom-content-left-link">
                                     <img src={tg2} alt="" className="footer-bottom-content-left-link-image" />
-                                </a>
-                                <a href="" className="footer-bottom-content-left-link">
-                                    <img src={mail2} alt="" className="footer-bottom-content-left-link-image" />
                                 </a>
                             </div>
                         </div>
                         <div className="footer-bottom-content-right">
-                            <iframe src="https://yandex.ru/map-widget/v1/?ll=37.634533%2C55.785205&mode=search&ol=geo&ouri=ymapsbm1%3A%2F%2Fgeo%3Fdata%3DCgg1Njc0MTUzNxI80KDQvtGB0YHQuNGPLCDQnNC%2B0YHQutCy0LAsINC%2F0YDQvtGB0L%2FQtdC60YIg0JzQuNGA0LAsIDU30YExIgoNw4kWQhUNJF9C&z=17.08" width="522" height="392" frameborder="1" allowfullscreen="true" ></iframe>
+                            <iframe src="https://yandex.ru/map-widget/v1/?um=constructor%3Aeacd56e09fb649d7011c60bd7e97d8c07e0b20bd9399da3aaec3820d2330c50d&amp;source=constructor" width="522" height="392" frameborder="0"></iframe>
                         </div>
                     </div>
                 </div>

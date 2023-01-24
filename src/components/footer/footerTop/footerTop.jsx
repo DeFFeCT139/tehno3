@@ -8,7 +8,7 @@ function FooterTop() {
                     <div className="footer-top-content">
                         <div className="footer-top-title">Все еще думаете? <br/>Попробуйте.</div>
                         <div className="footer-top-btn">
-                            <ButtonW text={'Оставить заявку'}/>
+                            <a class="btn21" href="https://forms.gle/1pVN8FJj9aq7NbGs8">Оставить заявку</a>
                         </div>
                     </div>
                 </div>

@@ -3,7 +3,7 @@ import img from '../../../image/svg/image-PhotoRoom 1.svg'
 
 function MainKons() {
     return (
-      <div className="main-kons main-block-padding">
+      <div id="kons" className="main-kons main-block-padding">
         <div className="conteiner">
             <div className="main-inner">
                 <div className="main-kons-text">
