@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/tehno3/static/css/main.1826e143.css",
-    "main.js": "/tehno3/static/js/main.c7cf7d56.js",
+    "main.css": "/tehno3/static/css/main.c9056dd3.css",
+    "main.js": "/tehno3/static/js/main.ccf7aef7.js",
     "static/js/787.5acb9b75.chunk.js": "/tehno3/static/js/787.5acb9b75.chunk.js",
     "static/media/shutterstock_1499306735 1 (1).png": "/tehno3/static/media/shutterstock_1499306735 1 (1).69833569ce8cc0e169c3.png",
     "static/media/Николай .jpg": "/tehno3/static/media/Николай .73dd124de81c41ff65f2.jpg",
@@ -15,6 +15,8 @@
     "static/media/statistik.png": "/tehno3/static/media/statistik.8317a23d91b8861e5a1c.png",
     "static/media/image 6.png": "/tehno3/static/media/image 6.2c426180868cf3f04497.png",
     "static/media/artworks-ezU1CEBfyjPPHebr-AuLWFA-t500x500.jpg": "/tehno3/static/media/artworks-ezU1CEBfyjPPHebr-AuLWFA-t500x500.82ca8eef14916e11a659.jpg",
+    "static/media/avatars-000068889999-domjd6-t500x500.jpg": "/tehno3/static/media/avatars-000068889999-domjd6-t500x500.4f63205396e61f348206.jpg",
+    "static/media/78289844.jpg": "/tehno3/static/media/78289844.a0a3771b9eebae519feb.jpg",
     "static/media/logo.svg": "/tehno3/static/media/logo.9674b517022bfbe10b38962eb82744b0.svg",
     "static/media/Icon (1).svg": "/tehno3/static/media/Icon (1).7965dafcfaa0bd27a5592697b7366fd3.svg",
     "static/media/Icon VK.svg": "/tehno3/static/media/Icon VK.27c7c29b4bc972f98350647ce8129cb8.svg",
@@ -36,12 +38,12 @@
     "index.html": "/tehno3/index.html",
     "static/media/Property 1=normal menu.svg": "/tehno3/static/media/Property 1=normal menu.fe6311c0d83cf7b23f1f06062fc275cd.svg",
     "static/media/Property 1=ative menu.svg": "/tehno3/static/media/Property 1=ative menu.e521a7e25d14551f28bc64200709f8fb.svg",
-    "main.1826e143.css.map": "/tehno3/static/css/main.1826e143.css.map",
-    "main.c7cf7d56.js.map": "/tehno3/static/js/main.c7cf7d56.js.map",
+    "main.c9056dd3.css.map": "/tehno3/static/css/main.c9056dd3.css.map",
+    "main.ccf7aef7.js.map": "/tehno3/static/js/main.ccf7aef7.js.map",
     "787.5acb9b75.chunk.js.map": "/tehno3/static/js/787.5acb9b75.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1826e143.css",
-    "static/js/main.c7cf7d56.js"
+    "static/css/main.c9056dd3.css",
+    "static/js/main.ccf7aef7.js"
   ]
 }
