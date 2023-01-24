@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/tehno3/static/css/main.c9056dd3.css",
-    "main.js": "/tehno3/static/js/main.ccf7aef7.js",
+    "main.js": "/tehno3/static/js/main.64e22302.js",
     "static/js/787.5acb9b75.chunk.js": "/tehno3/static/js/787.5acb9b75.chunk.js",
     "static/media/shutterstock_1499306735 1 (1).png": "/tehno3/static/media/shutterstock_1499306735 1 (1).69833569ce8cc0e169c3.png",
     "static/media/Николай .jpg": "/tehno3/static/media/Николай .73dd124de81c41ff65f2.jpg",
@@ -39,11 +39,11 @@
     "static/media/Property 1=normal menu.svg": "/tehno3/static/media/Property 1=normal menu.fe6311c0d83cf7b23f1f06062fc275cd.svg",
     "static/media/Property 1=ative menu.svg": "/tehno3/static/media/Property 1=ative menu.e521a7e25d14551f28bc64200709f8fb.svg",
     "main.c9056dd3.css.map": "/tehno3/static/css/main.c9056dd3.css.map",
-    "main.ccf7aef7.js.map": "/tehno3/static/js/main.ccf7aef7.js.map",
+    "main.64e22302.js.map": "/tehno3/static/js/main.64e22302.js.map",
     "787.5acb9b75.chunk.js.map": "/tehno3/static/js/787.5acb9b75.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c9056dd3.css",
-    "static/js/main.ccf7aef7.js"
+    "static/js/main.64e22302.js"
   ]
 }

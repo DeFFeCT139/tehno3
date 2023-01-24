@@ -19,7 +19,7 @@ function Header() {
                         <a href="#team" className="header-top-link">Команда</a>
                         <a href="#kons" className="header-top-link">Консультация</a>
                         <a href="#reviews" className="header-top-link">Отзывы</a>
-                        <a href="/" className="header-top-link">+7(999) 999 99-99</a>
+                        <a href="" className="header-top-link">+7 (964) 634 55-53</a>
                         <div className="header-top-link-podl"></div>
                         <div className="header-top-btn-menu-btn">
                             <img onClick={openMenu} src={menu} alt="" className="header-top-menu-img" />

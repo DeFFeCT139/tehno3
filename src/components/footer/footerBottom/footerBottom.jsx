@@ -22,7 +22,7 @@ function FooterBottom() {
                                     <div className="footer-bottom-content-left-desc-item-img">
                                         <img src={phone} alt="" className="footer-bottom-content-left-desc-item-image" />
                                     </div>
-                                    <div className="footer-bottom-content-left-desc-item-text">+7(999) 999 99-99</div>
+                                    <div className="footer-bottom-content-left-desc-item-text">+7 (964) 634 55-53</div>
                                 </div>
                                 <div className="footer-bottom-content-left-desc-item">
                                     <div className="footer-bottom-content-left-desc-item-img">
@@ -34,13 +34,13 @@ function FooterBottom() {
                                     <div className="footer-bottom-content-left-desc-item-img">
                                         <img src={tg} alt="" className="footer-bottom-content-left-desc-item-image" />
                                     </div>
-                                    <div className="footer-bottom-content-left-desc-item-text">@Cokol999</div>
+                                    <div className="footer-bottom-content-left-desc-item-text">@tehnosoft</div>
                                 </div>
                                 <div className="footer-bottom-content-left-desc-item">
                                     <div className="footer-bottom-content-left-desc-item-img">
                                         <img src={mail} alt="" className="footer-bottom-content-left-desc-item-image" />
                                     </div>
-                                    <div className="footer-bottom-content-left-desc-item-text">mail@rambler.ru</div>
+                                    <div className="footer-bottom-content-left-desc-item-text">GLEB.KAK2@YANDEX.RU</div>
                                 </div>
                             </div>
                             <div className="footer-bottom-content-left-links">
